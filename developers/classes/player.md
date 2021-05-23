@@ -5,7 +5,11 @@
 
 * **GetTeam()** - Returns the player team
 
+* **GetAlive()** - Returns true/false depending on whether the player is alive or not
+
 * **GetVelocity()** - Returns the player speed
+
+* **GetOrigin()** - Returns the player origin
 
 * **GetAngles()** - Returns the player angles
 
