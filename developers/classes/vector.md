@@ -1,9 +1,9 @@
 # Vector
-* x - number
+* **x** - Number
 
-* y - number
+* **y** - Number
 
-* z - number
+* **z** - Number
 
 * **Length()** - Returns the length of the vector
 
