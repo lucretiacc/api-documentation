@@ -1,2 +1,2 @@
 # Player
-* getindex()
+* GetIndex()
