@@ -1,6 +1,5 @@
 # Client
-* **RegisterCallback( string eventname, func() )**
-Adding new callback
+* **RegisterCallback( string eventname, func() )** -- Registering new callback
 
 * **LoadScript( string name )** -- Load a script by name
 
@@ -9,7 +8,7 @@ Adding new callback
 * **Log( string text )** -- Output of a string to the log
 
 ## Callback list
-* **OnShot** -- when aimbot is firing
+* **OnFire** -- when aimbot is firing
 
 * **Draw** -- hook to draw something..
 
