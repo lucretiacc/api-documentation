@@ -1,6 +1,5 @@
 # Utils
-FindSignature( string module_name, string signature )
-Return a pointer
+* **FindSignature( string module_name, string signature )** -- Return a pointer
 
 
 
