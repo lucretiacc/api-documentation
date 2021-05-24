@@ -17,8 +17,8 @@
 
 | Variable | Value |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| name | "name" |
+| bot  | true/false |
 
 * **GetViewAngles()** -- Return your view angles
 
