@@ -31,7 +31,7 @@ steam_id	"STEAM_0:?:?"
 * **GetViewAngles()**
 Return your view angle
 
-* **SetViewAngles( Vector view_angles )* **
+* **SetViewAngles( Vector view_angles )**
 * **IsConnected()**
 * **IsHLTV()**
 * **IsInGame()**
