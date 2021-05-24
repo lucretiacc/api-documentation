@@ -1,9 +1,9 @@
 # Entitylist
-GetLocalPlayer()
+* **GetLocalPlayer()**
 Return local player entity
 
-GetPlayerByIndex( int index )
+* **GetPlayerByIndex( int index )**
 Return entity by index
 
-GetWeaponByPlayer( player )
+* **GetWeaponByPlayer( player )**
 Return weapon by player
