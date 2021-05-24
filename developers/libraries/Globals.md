@@ -1,4 +1,6 @@
 # Globals
+* **GetFramerate()** -- Return your framerate (fps)
+
 * **GetPing()** -- Return your ping
 
 * **GetServerAddress()** -- Return the address of the server where you are located
