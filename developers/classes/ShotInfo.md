@@ -7,4 +7,4 @@
 * **ServerDamage** - int
 * **Hitchance** - int
 * **BacktrackTicks** - int
-* **AimPoint** - vector
+* **AimPoint** - Vector
