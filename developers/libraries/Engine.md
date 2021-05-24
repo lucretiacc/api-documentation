@@ -13,14 +13,6 @@
 
 * **GetPlayerForUserID( int index )** -- Returns the player by index
 
-* **GetPlayerInfo( int index )** -- Returns the following table:
-
-| Variable | Value |
-| ------------- | ------------- |
-| name          | "name"        |
-| bot           | true/false    |
-| steam_id	    | "STEAM_0:?:?" |
-
 * **GetViewAngles()** -- Return your view angles
 
 * **SetViewAngles ( Vector view_angles )**
@@ -29,3 +21,12 @@
 * **IsInGame()**
 * **IsPaused()**
 * **IsTakingScreenshot()**
+
+#
+* **GetPlayerInfo( int index )** -- Returns the following table:
+
+| Variable | Value |
+| ------------- | ------------- |
+| name          | "name"        |
+| bot           | true/false    |
+| steam_id	    | "STEAM_0:?:?" |
