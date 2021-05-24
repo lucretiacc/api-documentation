@@ -12,3 +12,7 @@
 * **Fakeduck**
 * **Slowwalk**
 * **BodyAim**
+
+# Hotkey modes
+* **Hold**
+* **Toggle**
