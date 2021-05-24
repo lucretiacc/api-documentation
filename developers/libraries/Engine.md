@@ -15,10 +15,10 @@
 
 * **GetPlayerInfo( int index )** -- Returns the following table:
 
-Variable	Value
-name	"name"
-bot	true/false
-steam_id	"STEAM_0:?:?"
+| Variable | Value |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 * **GetViewAngles()** -- Return your view angles
 
