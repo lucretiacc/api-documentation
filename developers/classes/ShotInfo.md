@@ -1,1 +1,10 @@
 # ShotInfo
+* **TargetName**
+* **Result**
+* **ClientHitbox**
+* **ServerHitbox**
+* **ClientDamage**
+* **ServerDamage**
+* **Hitchance**
+* **BacktrackTicks**
+* **AimPoint**
