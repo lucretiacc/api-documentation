@@ -3,5 +3,6 @@
 
 
 
-```local clantag_change_fn = Utils.FindSignature("engine.dll", "53 56 57 8B DA 8B F9 FF 15")```
+```lua
+local clantag_change_fn = Utils.FindSignature("engine.dll", "53 56 57 8B DA 8B F9 FF 15")```
 
