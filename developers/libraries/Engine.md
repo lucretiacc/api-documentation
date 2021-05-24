@@ -28,7 +28,7 @@ name	"name"
 bot	true/false
 steam_id	"STEAM_0:?:?"
 
-* **GetViewAngles()* **
+* **GetViewAngles()**
 Return your view angle
 
 * **SetViewAngles( Vector view_angles )* **
