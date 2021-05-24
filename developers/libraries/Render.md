@@ -1,6 +1,6 @@
 # Render
 * **GetTextWidth** ( font, int font_size, string text )
-* **CreateFont** ( string font_name, float size )
+* **CreateFont** ( string font_name, float font_size )
 
 * **DrawText** ( font, int font_size, float x, float y, Color color, string text )
 * **DrawTextCentered** ( font, int font_size, float x, float y, Color color, bool centered_x, bool centered_y, string text )
