@@ -5,7 +5,7 @@
 
 * **GetUsername()** -- Return your steam username
 
-* **GetRealtime() -- Return time since start of the game**
+* **GetRealtime()** -- Return time since start of the game**
 
 * **GetCurtime()** -- Return current time
 
