@@ -1,4 +1,4 @@
-# Hitboxes
+# Buttons
 * **InAttack**
 * **InJump**
 * **InDuck**
