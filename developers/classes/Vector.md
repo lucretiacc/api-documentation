@@ -1,19 +1,19 @@
 # Vector
-* **x** - Number
+* **x** -- Number
 
-* **y** - Number
+* **y** -- Number
 
-* **z** - Number
+* **z** -- Number
 
 #
 
-* **Length()** - Returns the length of the vector
+* **Length()** -- Returns the length of the vector
 
-* **LengthSqr()** - Returns the length of the vector squared
+* **LengthSqr()** -- Returns the length of the vector squared
 
-* **Length2D()** - Returns the length of a vector in two-dimensional space
+* **Length2D()** -- Returns the length of a vector in two-dimensional space
 
-* **Length2DSqr()** - Returns the length of a vector in two-dimensional space squared
+* **Length2DSqr()** -- Returns the length of a vector in two-dimensional space squared
 
 * **IsZero()**
 
@@ -21,10 +21,10 @@
 
 * **Zero()**
 
-* **DistTo()** - Returns the distance to..
+* **DistTo()** -- Returns the distance to..
 
-* **DistToSqr()** - Returns the distance to.. squared
+* **DistToSqr()** -- Returns the distance to.. squared
 
-* **CrossProduct()** - Returns the vector product
+* **CrossProduct()** -- Returns the vector product
 
-* **Normalize()** - Returns a normalized vector
+* **Normalize()** -- Returns a normalized vector
