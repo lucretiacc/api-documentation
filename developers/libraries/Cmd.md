@@ -1,6 +1,6 @@
 # Cmd
-GetSendPacket
-SetSendPacket
-GetChoke
-GetButtonState
-SetButtonState
+* **GetSendPacket()**
+* **SetSendPacket()**
+* **GetChoke()**
+* **GetButtonState()**
+* **SetButtonState()**
