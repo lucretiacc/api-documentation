@@ -17,8 +17,9 @@
 
 | Variable | Value |
 | ------------- | ------------- |
-| name | "name" |
-| bot  | true/false |
+| name          | "name"        |
+| bot           | true/false    |
+| steam_id	    | "STEAM_0:?:?" |
 
 * **GetViewAngles()** -- Return your view angles
 
