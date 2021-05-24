@@ -1,6 +1,6 @@
 # Cmd
 * **GetSendPacket()**
-* **SetSendPacket()**
+* **SetSendPacket(bool send_packet)**
 * **GetChoke()**
-* **GetButtonState()**
-* **SetButtonState()**
+* **GetButtonState(int button)**
+* **SetButtonState(int button, bool state)**
