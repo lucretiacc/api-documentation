@@ -1,7 +1,7 @@
 # Menu
 * **NextLine()**
 * **AddCheckbox** ( string name )
-* **AddHotkey** ( string name ) // soon
+* **AddHotkey** ( string name ) -- soon
 * **AddCombo** ( string name, string labels, ... )
 * **AddSliderInt** ( string name, int min, int max )
 * **AddSliderFloat** ( string name, float min, float max )
