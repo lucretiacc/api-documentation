@@ -3,9 +3,9 @@
 
 * **GetScreenHeight()** -- Returns the height of your screen
 
-* **get_level_name()** -- Returns the full name of the map
+* **GetMapName()** -- Returns the full name of the map
 
-* **get_level_name_short()** -- Returns the short name of the map
+* **GetMapShortName()** -- Returns the short name of the map
 
 * **GetLocalPlayerIndex()** -- Returns your index
 
