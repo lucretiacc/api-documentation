@@ -1,9 +1,7 @@
 # Render
-* **GetTextWidth** ( font, int font_size, string text )
-* **CreateFont** ( string font_name, float font_size )
-
-* **DrawText** ( font, int font_size, float x, float y, Color color, string text )
-* **DrawTextCentered** ( font, int font_size, float x, float y, Color color, bool centered_x, bool centered_y, string text )
+* **GetTextWidth** (int font_size, string text )
+* **DrawText** ( int font_size, float x, float y, Color color, string text )
+* **DrawTextCentered** ( int font_size, float x, float y, Color color, bool centered_x, bool centered_y, string text )
 * **WorldToScreen** ( Vector world )
 * **DrawLine** ( float x, float y, float x2, float y2, color )
 * **DrawRect** ( float x, float y, float w, float h, color )
