@@ -1,7 +1,7 @@
 -- adding a checkbox
 menu.AddCheckbox("Chams fade out")
 
--- defining cvar as "cl_ragdoll_physics_enable" (text)
+-- defining cvar as "cl_ragdoll_physics_enable" (string)
 local cvar = "cl_ragdoll_physics_enable"
 
 -- making a function
